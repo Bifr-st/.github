@@ -1,6 +1,6 @@
 ## Welcome to Bifrost 👋
 
-[![Discord](https://img.shields.io/badge/Discord-@Bifrost-blue.svg)]()
+[![Discord](https://img.shields.io/badge/Discord-@Bifrost-blue.svg)](https://discord.com/invite/9aWnJBgKEY)
 
 ![Bifrost-banner](https://github.com/mayank-blip/.github/blob/main/profile/Bifr-st.png?raw=true)
 
